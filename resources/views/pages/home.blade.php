@@ -11,6 +11,9 @@
          <li>Phase 05</li>
 
      </ul> --}}
+   <div>
+    <img src="images/home.jpg" alt="" class="home">
+   </div>
      <a href="{{url("/userLogin")}}" class="btn float-start bg-gradient-primary">Start Here</a>
  </div>
 
